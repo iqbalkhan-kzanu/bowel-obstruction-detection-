@@ -20,5 +20,7 @@ Diameter measurement was checked against a synthetic phantom of known size, givi
 
 The system correctly classified all 4 tested cases — 3 confirmed normal, 1 confirmed obstruction.
 
+Tested on cases from the AbdomenAtlas dataset and the TCIA Pancreas-CT collection.     
+
 
    
